@@ -14,5 +14,17 @@
     "example"
   ],
   "author": "naresh chauhan",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mifsdallas/nctest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mifsdallas/nctest/issues"
+  },
+  "homepage": "https://github.com/mifsdallas/nctest"
 }
